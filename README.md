@@ -29,4 +29,4 @@ O @AgendaRuimBot é um Bot desenvolvido para apesentar todos os eventos em Portu
 
  
 # Imagem do projeto
-![alt text](./AgendaRuimBotNFT1.png)
+![alt text](https://github.com/sadiq-x/AgendaRuimBot/blob/main/AgendaRuimBot.png)
